@@ -59,16 +59,6 @@ Assets analyzed:
 - yFinance
 - Google Colab
 
----
-
-## Repository Structure
-
-| File | Description |
-|---|---|
-| Natural_Gas_Power_Regime_Framework.ipynb | Full research notebook |
-| Marcus_Williams_Natural_Gas_Regime_Framework.pdf | Institutional-style strategy memo |
-
----
 
 ## Key Takeaways
 
@@ -83,5 +73,3 @@ Assets analyzed:
 ## Author
 
 Marcus Williams  
-Calgary, Alberta  
-Economics Graduate | Energy Markets & Trading Focus
